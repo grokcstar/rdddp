@@ -12,9 +12,9 @@
 * In Name: enter **NGROK_AUTH_TOKEN**
 * In Value: visit https://dashboard.ngrok.com/auth/your-authtoken Copy and Paste Your Authtoken into
 * Press Add secret
-* Go to Action> RDP_COFFIN> Run workflow
-* Reload the page and press RDP_COFFIN> build
+* Go to Action> RDP1-0x5a31333337> Run workflow
+* Reload the page and press RDP1-0x5a31333337> build
 * Press the down arrow on Connect To Your RPD to get IP, User, Password.
 
 ## Original Author:
-> Made by 0x5a31333337 - discord : satanus#3179
+> Made by 0x5a31333337 - discord : satanus#3179 - https://www.youtube.com/watch?v=NV93UoBQvIU
