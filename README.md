@@ -18,4 +18,4 @@
 * Press the down arrow on Connect To Your RPD to get IP, User, Password.
 
 ## Original Author:
-> Made by 0x5a31333337 - discord : satanus#3179 - https://www.youtube.com/watch?v=NV93UoBQvIU
+> Made by <a href="https://github.com/0x5a31333337/">0x5a31333337</a> - discord : satanus#3179 - https://www.youtube.com/watch?v=NV93UoBQvIU
